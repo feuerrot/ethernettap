@@ -9,13 +9,13 @@ The RJ45-connector is from [Pollin](http://www.pollin.de) and it's called [Weste
 ## Layout
 
 ### Top
-![Top side of the layout](https://raw.github.com/feuerrot/ethernettap/master/board_top_layer.png)
+![Top side of the layout](https://raw.github.com/feuerrot/ethernettap/master/img/board_top_layer.png)
 
 ### Bottom
-![Bottom side of the layout](https://raw.github.com/feuerrot/ethernettap/master/board_bottom_layer.png)
+![Bottom side of the layout](https://raw.github.com/feuerrot/ethernettap/master/img/board_bottom_layer.png)
 
 ### Combined
-![Both sides of the layout](https://raw.github.com/feuerrot/ethernettap/master/board_all_layer.png)
+![Both sides of the layout](https://raw.github.com/feuerrot/ethernettap/master/img/board_all_layer.png)
 
 ### Combined as gif
-![gifgifgif!](https://raw.github.com/feuerrot/ethernettap/master/board_all_layer.gif)
+![gifgifgif!](https://raw.github.com/feuerrot/ethernettap/master/img/board_all_layer.gif)
