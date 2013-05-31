@@ -16,3 +16,6 @@ The RJ45-connector is from [Pollin](http://www.pollin.de) and it's called [Weste
 
 ### Combined
 ![Both sides of the layout](https://raw.github.com/feuerrot/ethernettap/master/board_all_layer.png)
+
+### Combined as gif
+![gifgifgif!](https://raw.github.com/feuerrot/ethernettap/master/board_all_layer.gif)
