@@ -76,8 +76,8 @@
 <wire x1="57.455" y1="20.32" x2="0" y2="20.32" width="0" layer="20"/>
 <text x="25.4" y="15.875" size="2.54" layer="1" ratio="13">R3K</text>
 <text x="25.4" y="1.905" size="2.54" layer="1" ratio="13">TAP</text>
-<text x="25.4" y="18.415" size="2.54" layer="16" ratio="13" rot="MR180">R3K</text>
-<text x="32.385" y="1.905" size="2.54" layer="16" ratio="13" rot="MR0">TAP</text>
+<text x="24.765" y="18.415" size="2.54" layer="16" ratio="13" rot="MR180">R3K</text>
+<text x="31.75" y="1.905" size="2.54" layer="16" ratio="13" rot="MR0">TAP</text>
 <text x="1.905" y="10.795" size="2.54" layer="16" ratio="13" rot="MR90" align="center">TAP1</text>
 <text x="55.245" y="10.16" size="2.54" layer="16" ratio="13" rot="SMR270" align="center">HOST2</text>
 <text x="1.905" y="10.16" size="2.54" layer="1" ratio="13" rot="SR270" align="center">HOST1</text>
